@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ram Pata</h1>
 <p align="center">
-  🚀 Passionate Developer • 🧠 ML Enthusiast • 🌐 Web Developer  
+  🚀 Problem Solver  • 🧠 ML Enthusiast • 🌐 Web Developer  
 </p>
 
 <p align="center">
@@ -56,14 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbpata&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📅 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rbpata&limit=10&theme=tokyonight" />
 </p>
 
 ---
