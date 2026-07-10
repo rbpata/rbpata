@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ram Pata</h1>
 <p align="center">
-  I Do Coding..
+  Lazy dev
 </p>
 <p align="center">
   Incubyte | MCA'26
